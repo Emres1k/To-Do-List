@@ -1,0 +1,38 @@
+[
+  {
+    "Python Projesi": {
+      "gorev_aktifligi": "Aktif",
+      "gorev_durumu": "Görev Henüz Tamamlanmadı",
+      "gorev_icerigi": "To do list uygulaması yap",
+      "gorev_baslangic_tarihi": "01.01.2024 00:00",
+      "gorev_bitis_tarihi": "26.01.2024 00:00"
+    }
+  },
+  {
+    "Java Sosyal Medya Uygulaması": {
+      "gorev_aktifligi": "Tamamlandı",
+      "gorev_durumu": "Görev Tamamlandı",
+      "gorev_icerigi": "swing ya da javaFX kullanılarak bir arayüz uygulaması yapınız.",
+      "gorev_baslangic_tarihi": "25.12.2023 00:00",
+      "gorev_bitis_tarihi": "25.01.2024 00:00"
+    }
+  },
+  {
+    "C yılan oyunu projesi": {
+      "gorev_aktifligi": "Aktif değil",
+      "gorev_durumu": "Görev Teslim süresi geçti",
+      "gorev_icerigi": "C programlama dilini kullanarak bir yılan oyunu yapınız",
+      "gorev_baslangic_tarihi": "27.11.2023 00:00",
+      "gorev_bitis_tarihi": "28.12.2023 00:00"
+    }
+  },
+  {
+    "Diferansiyel denklem final": {
+      "gorev_aktifligi": "Aktif değil",
+      "gorev_durumu": "Görev Henüz Başlamadı",
+      "gorev_icerigi": "Diferansiyel denklem sınavına kadar ilgili konuları bitir.",
+      "gorev_baslangic_tarihi": "12.01.2024 00:00",
+      "gorev_bitis_tarihi": "19.01.2024 00:00"
+    }
+  }
+]
